@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        for (int i = 10; i>0; i--){
+        for (int i = 13; i>0; i--){
             System.out.println("");
             for ( int j = i; j >0; j--){
                 char char1 = '*';

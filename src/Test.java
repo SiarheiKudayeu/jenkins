@@ -7,5 +7,6 @@ public class Test {
                 System.out.print(char1);
             }
         }
+        System.out.println("");
     }
 }

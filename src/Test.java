@@ -1,6 +1,11 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("This is you first java job in jenkins.");
-        System.out.println("This is you first test.");
+        for (int i = 10; i>0; i--){
+            System.out.println("");
+            for ( int j = i; j >0; j--){
+                char char1 = '*';
+                System.out.print(char1);
+            }
+        }
     }
 }
